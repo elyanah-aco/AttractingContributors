@@ -3,3 +3,4 @@
 ## List of shrines
 
 - Kashihara Jingu
+- Ise Jingu
